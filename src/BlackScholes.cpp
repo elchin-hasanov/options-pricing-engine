@@ -1,6 +1,6 @@
 //computes option prices based on S, K, r, T, sigma
 
-#include "BlackScholes.hpp";
+#include "BlackScholes.hpp"
 
 #include <cmath>
 
