@@ -1,0 +1,11 @@
+1) Implement Black-Scholes pricing model
+2) Add implied volatility calculation
+3) Create Monte Carlo simulation for option pricing
+4) Develop reaarbitrage-free volatility surface modeling
+
+
+For this project foundations:
+1. Options 101
+2. Learncpp.com
+
+
