@@ -3,22 +3,6 @@
 
 > Reconstructing the geometry of implied volatility from real option-chain data.
 
----
-
-## Overview
-
-This project implements a low-latency pipeline for transforming raw option-chain data into a continuous implied volatility surface.
-
-At its core, the system:
-- ingests live market data
-- numerically inverts Black–Scholes
-- conditions noisy quotes
-- reconstructs a smooth surface over strike and maturity
-
-The emphasis is on **robust numerical behavior and realistic market structure**, not toy pricing.
-
----
-
 ## Architecture
 
 ### C++ Pricing & Data Layer
