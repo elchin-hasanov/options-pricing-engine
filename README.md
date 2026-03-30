@@ -1,4 +1,4 @@
-```md
+
 # 📈 Options Pricing Engine
 
 > Reconstructing the geometry of implied volatility from real option-chain data.
@@ -128,4 +128,3 @@ This avoids:
 
 > SPY implied volatility surface (March 27, 2026 snapshot)  
 > Interpolated from cleaned quotes with raw observations overlaid.
-```
